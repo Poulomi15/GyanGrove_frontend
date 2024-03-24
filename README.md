@@ -15,24 +15,27 @@ This is a single-page application (SPA) created as part of a frontend developer 
 ## Setup and Local Run Instructions
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/Poulomi15/GyanGrove_frontend.git
 cd your-repository
-Install dependencies:
+
+## Install dependencies:
 bash
 Copy code
 npm install
-Start the development server:
+
+## Start the development server:
 bash
 Copy code
 npm start
-Open your browser and navigate to http://localhost:3000 to view the application.
-Design and Technical Decisions
+
+## Open your browser and navigate to http://localhost:3000 to view the application.
+
+# Design and Technical Decisions
 React: React is chosen as the JavaScript library for building the SPA due to its popularity, component-based architecture, and efficient rendering.
 CSS: CSS is used for styling, with a focus on responsiveness and aesthetics. Advanced CSS techniques such as flexbox and media queries are employed.
 API Integration: The application fetches data from a public REST API to populate the projects section dynamically, showcasing effective API integration and state management.
-Evaluation Criteria
+
+# Evaluation Criteria
 Responsiveness: The site is tested across various devices and browsers to ensure functionality and design integrity.
 Framework Proficiency: React is effectively used for dynamic content rendering and state management.
 UI Design & CSS Skills: Aesthetics, creativity, and advanced CSS techniques are demonstrated.
@@ -42,11 +45,11 @@ Code Quality: Clean, organized, and well-documented code ensures maintainability
 Live Site
 The live site is hosted on Netlify: Link to Live Site
 
-Repository
-The source code is available on GitHub: Link to Repository
+# Repository
+The source code is available on GitHub: (https://github.com/Poulomi15/GyanGrove_frontend)
 
-Author
+# Author
 Poulomi Chowdhury - GitHub Profile
 
-License
+# License
 This project is licensed under the MIT License.
