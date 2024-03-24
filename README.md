@@ -42,8 +42,6 @@ UI Design & CSS Skills: Aesthetics, creativity, and advanced CSS techniques are 
 Performance: Optimization techniques are implemented for fast loading times and efficient API integration.
 API Integration: Effective fetching, usage, and display of data from the REST API are showcased.
 Code Quality: Clean, organized, and well-documented code ensures maintainability and readability.
-Live Site
-The live site is hosted on Netlify: Link to Live Site
 
 # Repository
 The source code is available on GitHub: (https://github.com/Poulomi15/GyanGrove_frontend)
